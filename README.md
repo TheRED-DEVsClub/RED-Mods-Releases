@@ -10,7 +10,7 @@
 [![Latest Release](https://img.shields.io/github/v/release/TheRED-DEVsClub/RED-Mods-Releases?style=for-the-badge&color=dc2626)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest)
 
-[Baixar agora](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe) | [Site](https://red-mods.pages.dev) | [Codigo-fonte](https://github.com/TheRED-DEVsClub/RED-Mods) | [Discord](https://discord.gg/reddevs)
+[Baixar agora](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe) | [Site](https://red-mods.pages.dev) | [Issues](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/issues) | [Discord](https://discord.gg/reddevs)
 
 </div>
 
@@ -24,8 +24,6 @@ Aqui voce encontra:
 - o executavel oficial para Windows
 - as releases publicas e changelogs
 - uma visao rapida do produto, sem misturar detalhes de desenvolvimento
-
-Se voce quer acompanhar a base do projeto, schema, roadmap e implementacao, o repositorio principal esta em `TheRED-DEVsClub/RED-Mods`.
 
 ## O que o RED Mods faz
 
@@ -102,17 +100,18 @@ Nao e recomendado. O foco do RED Mods e single-player.
 
 ### Onde reporto problema ou acompanho o desenvolvimento?
 
-Use o repositorio principal:
+Use os canais publicos do projeto:
 
-- Bugs e feedback: https://github.com/TheRED-DEVsClub/RED-Mods/issues
-- Codigo e roadmap: https://github.com/TheRED-DEVsClub/RED-Mods
+- Issues: https://github.com/TheRED-DEVsClub/RED-Mods-Releases/issues
+- Discord: https://discord.gg/reddevs
+- Site: https://red-mods.pages.dev
 
 ## Links
 
 - Site: https://red-mods.pages.dev
 - Release mais recente: https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest
 - Download direto: https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe
-- Codigo-fonte: https://github.com/TheRED-DEVsClub/RED-Mods
+- Issues: https://github.com/TheRED-DEVsClub/RED-Mods-Releases/issues
 - Discord: https://discord.gg/reddevs
 
 ---
