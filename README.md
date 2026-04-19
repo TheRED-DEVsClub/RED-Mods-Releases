@@ -1,191 +1,124 @@
 <div align="center">
 
-<img src="logo.png" alt="RED Mods Logo" width="200"/>
+<img src="logo.png" alt="RED Mods logo" width="180" />
 
-# 🎮 RED MODS
+# RED Mods
 
-### O Trainer Definitivo para Seus Jogos Favoritos
+### Trainer manager para Windows com controle local e remoto
 
-[![Download](https://img.shields.io/badge/Download-RED%20Mods-dc2626?style=for-the-badge&logo=windows)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe)
-[![Versão](https://img.shields.io/github/v/release/TheRED-DEVsClub/RED-Mods-Releases?style=for-the-badge&color=dc2626)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest)
-[![Plataforma](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest)
+[![Download](https://img.shields.io/badge/Download-RED%20Mods-dc2626?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe)
+[![Latest Release](https://img.shields.io/github/v/release/TheRED-DEVsClub/RED-Mods-Releases?style=for-the-badge&color=dc2626)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest)
+[![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest)
 
-[🌐 Acesse a Versão Web](https://red-mods.pages.dev) • [📱 Controle Remoto](#-controle-remoto-mobile) • [🎯 Funcionalidades](#-funcionalidades)
+[Baixar agora](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe) | [Site](https://red-mods.pages.dev) | [Codigo-fonte](https://github.com/TheRED-DEVsClub/RED-Mods) | [Discord](https://discord.gg/reddevs)
 
 </div>
 
 ---
 
-## 🚀 Instalação Rápida
+## O que e este repositorio
 
-1. **Baixe o executável**: [RED-Mods.exe](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe)
-2. **Execute como Administrador** (necessário para manipulação de memória)
-3. **Pronto!** O RED Mods abrirá na bandeja do sistema
+Este repositorio existe para quem so quer baixar e usar o RED Mods.
 
-> ⚠️ **Importante**: Execute sempre como administrador para que os mods funcionem corretamente.
+Aqui voce encontra:
+- o executavel oficial para Windows
+- as releases publicas e changelogs
+- uma visao rapida do produto, sem misturar detalhes de desenvolvimento
 
----
+Se voce quer acompanhar a base do projeto, schema, roadmap e implementacao, o repositorio principal esta em `TheRED-DEVsClub/RED-Mods`.
 
-## ✨ Funcionalidades
+## O que o RED Mods faz
 
-### 🎯 Sistema de Mods Avançado
-- **Interface Moderna** - Design glassmorphism elegante
-- **Detecção Automática** - Encontra jogos instalados automaticamente
-- **Controle em Tempo Real** - Ative/desative mods instantaneamente
-- **Sincronização na Nuvem** - Suas configurações em todos os dispositivos
-- **Controle Remoto Mobile** - Gerencie mods do seu celular
+O RED Mods e um trainer manager em desenvolvimento para jogos single-player no Windows.
 
-### 🎮 Suporte a Jogos
-O RED Mods detecta automaticamente jogos instalados via:
-- ✅ Steam
-- ✅ Epic Games Store
-- ✅ GOG Galaxy
-- ✅ Xbox Game Pass
-- 🔄 Mais plataformas em breve!
+Principais ideias do produto:
+- detectar jogos instalados no PC
+- centralizar mods, toggles e sliders em uma interface unica
+- permitir controle pelo navegador ou celular na mesma rede
+- preparar um catalogo publico com jogos suportados, em desenvolvimento e pedidos da comunidade
 
-> 💡 **Nota**: O sistema de mods está em desenvolvimento ativo. Novos jogos e funcionalidades serão adicionados constantemente!
+## Download e instalacao
 
----
+1. Baixe o arquivo mais recente em [Latest Release](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest).
+2. Execute o `RED-Mods.exe` como administrador.
+3. Abra a interface pelo icone da bandeja do sistema.
 
-## 📱 Controle Remoto Mobile
+### Requisitos
 
-Controle seus mods de qualquer lugar usando seu celular ou tablet!
+- Windows 10 ou Windows 11 64-bit
+- Permissao de administrador para manipulacao de memoria
+- Mesmo Wi-Fi ou rede local se voce quiser controlar pelo celular
 
-### Como Conectar
+## Como usar
 
-#### 1️⃣ No PC (Desktop App)
-1. Abra o RED Mods
-2. Clique com botão direito no ícone da bandeja
-3. Selecione **"Open UI"**
-4. Anote o IP mostrado (ex: `192.168.1.100`)
+### No PC
 
-#### 2️⃣ No Celular/Tablet
-1. Acesse [red-mods.pages.dev](https://red-mods.pages.dev) no navegador
-2. Clique na aba **"DISPOSITIVOS"**
-3. Digite o IP do seu PC
-4. Clique em **"Conectar"**
+1. Inicie o RED Mods como administrador.
+2. Clique com o botao direito no icone da bandeja.
+3. Use `Open UI` para abrir a interface no navegador.
+4. Escolha um jogo e ajuste os mods disponiveis.
 
-#### 3️⃣ Pronto!
-Agora você pode:
-- ✅ Ativar/desativar mods remotamente
-- ✅ Ajustar valores em tempo real
-- ✅ Ver status dos jogos
-- ✅ Controlar de qualquer cômodo da casa
+### No celular ou outro navegador
 
-### 🔍 Busca Automática
-Não sabe o IP do seu PC? Use a função **"Buscar PC automaticamente"** na aba Dispositivos!
+1. Acesse [red-mods.pages.dev](https://red-mods.pages.dev).
+2. Va para a area de conexao do app.
+3. Digite o IP do PC ou use a busca na rede local.
+4. Conecte para controlar os mods remotamente.
 
----
+## O que voce pode esperar hoje
 
-## 🎯 Como Usar
+- interface moderna e leve
+- deteccao de jogos por multiplas plataformas
+- sincronizacao local por WebSocket e descoberta em LAN
+- base publica com landing, catalogo e comunidade em evolucao
 
-### Primeira Vez
+### Plataformas detectadas
 
-1. **Execute o RED-Mods.exe** como administrador
-2. O app abrirá na **bandeja do sistema** (próximo ao relógio)
-3. Clique com **botão direito** no ícone para ver as opções:
-   - 🌐 **Open UI** - Abre a interface no navegador
-   - 🔄 **Restart** - Reinicia o aplicativo
-   - ❌ **Exit** - Fecha o aplicativo
+- Steam
+- Epic Games Store
+- GOG
+- Xbox Game Pass
 
-### Usando os Mods
+## Seguranca e boas praticas
 
-1. **Abra a UI** clicando em "Open UI" na bandeja
-2. **Selecione um jogo** na biblioteca lateral
-3. **Clique no botão PLAY** para iniciar o jogo com os mods
-4. **Ative os mods** que desejar durante o jogo
-5. **Ajuste valores** usando os sliders
-6. **Divirta-se!** 🎮
+- Use apenas em jogos single-player.
+- Execute como administrador para evitar falhas de acesso ao processo do jogo.
+- Alguns antivrus podem sinalizar trainers por comportamento de memoria. Se necessario, adicione o executavel a excecoes confiaveis.
+- Baixe sempre pela release mais recente deste repositorio para evitar arquivos desatualizados.
 
-### Dicas Importantes
+## FAQ
 
-- ⚠️ **Execute como Admin**: Sempre necessário para funcionar
-- 🎮 **Inicie o jogo pelo RED Mods**: Use o botão "PLAY" para garantir que os mods sejam carregados corretamente
-- 🔄 **Mods em tempo real**: Mudanças aplicadas instantaneamente
-- 💾 **Estados salvos**: Suas configurações são lembradas
-- 🔐 **Seguro**: Não modifica arquivos do jogo
+### O RED Mods ja esta pronto?
 
----
-
-## 🔐 Conta e Sincronização
-
-### Criar Conta (Opcional)
-
-Crie uma conta para sincronizar seus mods entre dispositivos:
-
-1. Clique no **avatar** no canto superior direito
-2. Escolha **"Criar nova conta"**
-3. Use **Google** ou **Email/Senha**
-4. Pronto! Seus mods serão sincronizados automaticamente
-
-### Benefícios da Conta
-
-- ☁️ **Sincronização na nuvem** - Mesmas configurações em todos os dispositivos
-- 📱 **Controle remoto** - Conecte mobile ao PC
-- 💾 **Backup automático** - Nunca perca suas configurações
-- 🎯 **Perfil personalizado** - Suas preferências salvas
-
----
-
-## 🛡️ Segurança e Privacidade
-
-- ✅ **Código verificado** - Sem vírus ou malware
-- ✅ **Sem telemetria** - Não coletamos dados pessoais
-- ✅ **Open source** - Código auditável
-- ✅ **Sem DRM** - Use livremente
-- ✅ **Offline first** - Funciona sem internet
-
----
-
-## ❓ Perguntas Frequentes
-
-### O RED Mods é seguro?
-Sim! O aplicativo não modifica arquivos do jogo, apenas a memória em tempo de execução. Sempre baixe da fonte oficial.
-
-### Funciona em jogos online?
-**NÃO recomendamos** usar em jogos online/multiplayer. Use apenas em single-player para evitar banimentos.
+Ainda nao completamente. O projeto esta funcional em varias partes importantes, mas continua em evolucao e recebe melhorias frequentes.
 
 ### Precisa de internet?
-Não! O app funciona 100% offline. Internet é necessária apenas para:
-- Login com conta
-- Sincronização entre dispositivos
-- Controle remoto mobile
 
-### Por que precisa de permissão de administrador?
-Para acessar e modificar a memória dos processos dos jogos, o Windows exige privilégios elevados.
+Nao para o uso local basico. Internet ajuda em recursos como autenticacao, landing publica e fluxos remotos.
 
-### Meu antivírus está bloqueando!
-Alguns antivírus detectam falsamente como ameaça devido à manipulação de memória. Adicione à lista de exceções.
+### Funciona em jogos online?
 
-### Como atualizar?
-O app verifica atualizações automaticamente. Ou baixe a versão mais recente aqui nos releases.
+Nao e recomendado. O foco do RED Mods e single-player.
 
----
+### Onde reporto problema ou acompanho o desenvolvimento?
 
-## 🆘 Suporte
+Use o repositorio principal:
 
-Precisa de ajuda? Entre em contato:
+- Bugs e feedback: https://github.com/TheRED-DEVsClub/RED-Mods/issues
+- Codigo e roadmap: https://github.com/TheRED-DEVsClub/RED-Mods
 
-- 💬 **Discord**: [RED DEVs Club](Em breve)
-- 📧 **Email**: (Em breve)
-- 🐛 **Reportar Bug**: [Issues](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/issues)
+## Links
 
----
-
-## 📜 Licença
-
-RED Mods © 2026 RED DEVs Club. Todos os direitos reservados.
-
-**Uso Pessoal Apenas** - Não redistribua ou modifique sem autorização.
+- Site: https://red-mods.pages.dev
+- Release mais recente: https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest
+- Download direto: https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe
+- Codigo-fonte: https://github.com/TheRED-DEVsClub/RED-Mods
+- Discord: https://discord.gg/reddevs
 
 ---
 
 <div align="center">
 
-### 🎮 Divirta-se com RED Mods!
-
-[![Download Agora](https://img.shields.io/badge/Download%20Agora-RED%20Mods-dc2626?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/TheRED-DEVsClub/RED-Mods-Releases/releases/latest/download/RED-Mods.exe)
-
-**Feito com ❤️ pela RED DEVs Club**
+Feito pela RED DEVs Club.
 
 </div>
